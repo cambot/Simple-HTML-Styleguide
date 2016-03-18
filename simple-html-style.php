@@ -21,6 +21,7 @@ function simple_html_styleguide_shortcode( $atts, $content ) {
 	$plugin_dir = plugin_dir_path(__FILE__);
 	include($plugin_dir . 'partials/headings.html.php');
 	include($plugin_dir . 'partials/lists.html.php');
+	include($plugin_dir . 'partials/tables.html.php');
 }
 add_shortcode('html-styleguide', 'simple_html_styleguide_shortcode');
 
