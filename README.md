@@ -8,7 +8,7 @@ Simply add this shortcode into any page/post:
 
 and you will get static HTML with the following elements:
 
-* Headings: H1-H6
-* Text block elements: p, blockquote, a, strong, em
-* Lists: ol (li), ul (li), dl (dt, dd)
-* Tables: table, thead, tbody, tr, th, td
+* Headings: `h1`-`h6`
+* Text block elements: `p`, `blockquote`, `a`, `strong`, `em`
+* Lists: `ol` (`li`), `ul` (`li`), `dl` (`dt`, `dd`)
+* Tables: `table`, `thead`, `tbody`, `tr`, `th`, `td`
