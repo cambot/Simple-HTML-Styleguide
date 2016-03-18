@@ -19,3 +19,4 @@
 	<dt>Email:</dt><dd>How people can reach you</dd>
 </dl>
 
+<hr/>
