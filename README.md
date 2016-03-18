@@ -3,7 +3,9 @@ A WordPress plugin that lets you easily create basic HTML Styleguide pages for q
 
 ## Usage
 Simply add this shortcode into any page/post:
-```[html-styleguide]```
+
+    [html-styleguide]
+
 and you will get static HTML with the following elements:
 
 * Headings: H1-H6
