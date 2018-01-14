@@ -1,5 +1,5 @@
 # Simple HTML Style Guide
-A WordPress plugin that lets you easily create basic HTML Style Guide pages for quicker theme development and validation.
+A WordPress plugin that helps you create Style Guide pages/posts for quicker theme development and validation via a simple shortcode.
 
 ## Usage
 Simply add this shortcode into any page/post:
